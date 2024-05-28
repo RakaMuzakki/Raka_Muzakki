@@ -23,7 +23,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![1](https://giths://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/81a7c3be-1eb7-457c-a882-633b25ec9be8)
+![Screenshot 2024-05-28 104930](https://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/04df0856-b0af-4fbd-a5c7-5a1673bb523d)
 
 ### 2.	Tampilkan pegawai yang tunjangannya NULL!
 
