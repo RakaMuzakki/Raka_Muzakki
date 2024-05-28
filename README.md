@@ -23,7 +23,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/4e580583-3bb5-4b86-84bd-dce0ff01e338)
+![1](https://giths://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/81a7c3be-1eb7-457c-a882-633b25ec9be8)
 
 ### 2.	Tampilkan pegawai yang tunjangannya NULL!
 
@@ -35,7 +35,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/16950ed6-2d1c-4333-bd8b-3960bf6aa8cf)
+![Screenshot 2024-05-28 104941](https://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/461d862d-f084-43de-bd86-b28363517592)
 
 ### 3.	Tampilkan pegawai yang tunjangannya tidak NULL!
 
@@ -47,11 +47,11 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/0ffebe47-b6ec-468d-8228-1b373a62372a)
+![Screenshot 2024-05-28 104948](https://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/f2eec9d4-e345-4dc3-aa8c-ee293814bc02)
 
 ## HASIL DARI 1 - 3
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/06839f76-6c14-485a-b482-7daad459ad16)
+![Screenshot 2024-05-28 105002](https://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/36b58b48-96f9-40cc-bcfe-67c8b30db63c)
 
 ### 4.	Tampilkan/hitung jumlah baris/record tabel pegawai!
 
@@ -63,7 +63,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/c5c0da82-9f04-44af-88af-2f9572bd8b4d)
+![Screenshot 2024-05-28 105010](https://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/68270679-824f-4c7b-84f7-1669df1deb7c)
 
 ### 5.	Tampilkan/hitung jumlah total gaji di tabel pegawai!
 
@@ -76,7 +76,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/3d86721b-8c25-4dcb-bae3-341e658f30f6)
+![Screenshot 2024-05-28 105028](https://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/596caa7e-e2ee-40e6-8c1e-2c54d2fe1f84)
 
 ### 6.	Tampilkan/hitung rata-rata gaji pegawai!
 
@@ -88,7 +88,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/5b9375f1-df3d-4fab-b0b1-f33300d77fc1)
+![Screenshot 2024-05-28 105037](https://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/fd68ab30-a462-4890-a333-9506b4b2b9b2)
 
 ### 7.	Tampilkan gaji terkecil!
 
@@ -100,7 +100,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/d3b917e8-7005-49e3-8ce9-a2015ec1a941)
+![Screenshot 2024-05-28 105045](https://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/b4666015-370e-4746-90ec-7e61fd20cc67)
 
 ### 8.	Tampilkan gaji terbesar!
 
@@ -112,7 +112,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/884ddeb8-5530-496d-ad03-43c5b2b60cae)
+![Screenshot 2024-05-28 105057](https://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/5d10352b-d52c-4b41-ae98-694989c8cf68)
 
 ## TUGAS PRAKTIKUM 4 (TABEL HEWAN)
 1.	Tampilkan jumlah hewan yang dimiliki setiap owner
@@ -134,7 +134,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/c2f79225-7d45-4015-b21c-53789b8a403e)
+![Screenshot 2024-05-28 105107](https://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/8f4034f4-8d7a-4210-a692-6590eac5b419)
 
 ### 2.	Tampilkan jumlah hewan berdasarkan spesies
 
@@ -146,7 +146,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/c7577f83-33aa-4bd2-85fc-f1353e0c1f63)
+![Screenshot 2024-05-28 105144](https://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/61354d2b-45bb-4947-b1cd-35fb6068c4bc)
 
 ### 3.	Tampilkan jumlah hewan berdasarkan jenis kelamin
 
@@ -170,7 +170,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![sex and species](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/10627e1b-3f61-418f-8c6d-251791f97b28)
+![Screenshot 2024-05-28 105155](https://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/455cd25d-e2a3-494f-9ce0-87829321ec68)
 
 ### 5.	Tampilkan jumlah hewan berdasarkan spesis (cat dan dog saja) dan jenis kelamin
 
@@ -194,4 +194,5 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/e1ccaba2-de53-4839-8ee6-be25e869a72d)
+![Screenshot 2024-05-28 105225](https://github.com/RakaMuzakki/Raka_Muzakki/assets/170961426/c615cb93-925c-4b2e-a66b-f5d1ed65f2a0)
+
